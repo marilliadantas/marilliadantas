@@ -1,4 +1,4 @@
-### Olá! Eu sou a Marillia Dantas
+### Olá! Eu sou a Marillia
 
 - ✨Hoje estou buscando oportunidade no mercado para atuar como front-end
 - 🌱 Estudando JavaScript / HTML 5 / CSS 3 / REACT / PYTHON
