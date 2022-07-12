@@ -1,4 +1,4 @@
-### Olá, me chamo Marillia
+### Olá, me chamo Marillia!
 
 - ✨Hoje estou buscando oportunidade no mercado para atuar como front-end
 - 🌱 Estudando JavaScript / HTML 5 / CSS 3 / REACT / PYTHON
