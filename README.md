@@ -1,7 +1,7 @@
 ### Olá, me chamo Marillia!
 
 - ✨ Atualmente sou estágiaria de QA no Grupo Comunique-se. 
-- 🌱 Estudando Java / Python / Robot Framework / Automação de testes / Scrum
+- 🌱 Estudando JavaScript / Cypress / Automação de testes / Scrum
 - 📫 Contate-me por email: marillia.dantas@hotmail.com
 - 😄 Pronouns: ela/dela
 
