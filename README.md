@@ -1,4 +1,4 @@
-## Olá, eu sou a Marillia
+## Olá, eu sou a Marillia ✨
 
 ### E sou estagiária de Testes de Software
 
@@ -46,12 +46,14 @@ Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistem
 
 <br>
 
-### Siga QA Priscila de Araujo nas redes sociais:
+### Siga QA Marillia nas redes sociais:
 
 <br>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCt3l355CiuD_o15MBJAimZA)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilliadantas/?original_referer=")
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qaprisciladearaujo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xmarid/)
+
+![Snake animation](https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake.svg)
 
 <br>
