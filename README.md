@@ -6,11 +6,16 @@
 
 Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistemas, estou no início da minha carreira na área de TI com teste de Software.
 
-- 🧠 Estagiária na Knewin
+- 🧠 Estagiária na Comunique-se
 
 <br>
 
 ## **Skills**
+
+- 🗣️ Boa comunicação
+- 💡 Criatividade 
+- 📚 Autodidata
+- 👥 Trabalho em equipe
 
 <br>
 
