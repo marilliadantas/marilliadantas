@@ -1,34 +1,57 @@
-### Olá, me chamo Marillia!
+## Olá, eu sou a Marillia
 
-- ✨ Atualmente sou estágiaria de QA no Grupo Comunique-se. 
-- 🌱 Estudando JavaScript / Cypress / Automação de testes / Scrum
-- 📫 Contate-me por email: marillia.dantas@hotmail.com
-- 😄 Pronouns: ela/dela
+### E sou estagiária de Testes de Software
 
-<div align="center">
-  <a href="https://github.com/marilliadantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=aura"/>
-</div>
- 
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br>
 
-</div>
-  
-##
-  
-<div>
-  
-  <a href="https://instagram.com/xmarid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marillia.dantas@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marilliadantas/?original_referer=" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
+Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistemas, estou no início da minha carreira na área de TI com teste de Software.
+
+- 🧠 Estagiária na Knewin
+
+<br>
+
+## **Skills**
+
+<br>
+
+### Frameworks
+
+---
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]() [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+
+<br>
+
+### IDE
+
+---
+
+[![vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
+<br>
+
+### Linguagens de Programação
+
+---
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() [![Javascritp](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+
+<br>
+
+## Atividades
+
+![Marillia GitHub stats](https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=aura")](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+### Siga QA Priscila de Araujo nas redes sociais:
+
+<br>
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCt3l355CiuD_o15MBJAimZA)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qaprisciladearaujo/)
+
+<br>
