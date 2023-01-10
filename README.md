@@ -16,7 +16,7 @@ Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistem
 - 💡 Criatividade 
 - 📚 Autodidata
 - 👥 Trabalho em equipe
-
+- 🚀 Proatividade
 <br>
 
 ### Frameworks
