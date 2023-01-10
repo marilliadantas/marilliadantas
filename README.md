@@ -44,9 +44,9 @@ Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistem
 
 ## Atividades
 
-![Marillia GitHub stats](https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=aura&include_all_commits=true&count_private=true")
+![Marillia GitHub stats](https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=aura")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
