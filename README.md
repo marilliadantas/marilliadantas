@@ -4,7 +4,9 @@
 
 Atualmente estou em transição de carreira da área de Meio Ambiente para a área de Tecnologia da Informação, com foco em testes de software. Curso Análise e Desenvolvimento de Sistemas e atualmente sou estagiária de testes (QA) na Comunique-se. 
 
-- 🧠 Estagiária na Comunique-se
+<br>
+
+- 🧠 Estagiária de testes (QA) na Comunique-se.
 
 <br>
 
