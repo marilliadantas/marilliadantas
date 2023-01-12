@@ -1,10 +1,8 @@
 ## Olá, eu sou a Marillia ✨
 
-### E sou estagiária de Testes de Software
-
 <br>
 
-Formada em Gestão Ambiental e Estudante de Análise e Desenvolvimento de Sistemas, estou no início da minha carreira na área de TI com teste de Software.
+Atualmente estou em transição de carreira da área de Meio Ambiente para a área de Tecnologia da Informação, com foco em testes de software. Curso Análise e Desenvolvimento de Sistemas e atualmente sou estagiária de testes (QA) na Comunique-se. 
 
 - 🧠 Estagiária na Comunique-se
 
