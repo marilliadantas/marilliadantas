@@ -41,25 +41,21 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
+  
+<div align="center">
 
+  ![Snake animation](https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div>
   <a href="https://github.com/marilliadantas"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div align="center">
-
-  ![Snake animation](https://github.com/zec4o/zec4o/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
 <div>
 <a href="https://github.com/marilliadantas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-
- <div> 
-<h3 align="left">Articles and Contact</h3>
-<a href = "mailto:marillia.dantas@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/marilliadantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
