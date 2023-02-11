@@ -7,17 +7,15 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-- 🌎 I'm **Brazilian**
+- 🌎 I'm **Brazilian.**
 
-- I am a **QA intern** 
+- I am a **QA intern.** 
 
-- 🔭 I'm currently work with functional and manual testing
+- 🔭 I'm currently work with functional and manual testing.
 
-- 🌱 I’m currently learning **Cypress | Postman | Jmeter**
+- 🌱 I’m currently learning **Cypress | Postman | Jmeter.**
 
-- 👯 I’m looking to collaborate on <pending ideas\>
-
-- 📫 How to reach me **marillia.dantas@hotmail.com**
+- 👯 I’m looking to collaborate on <pending ideas\>.
 
 
 **Languages and Testing Tools:**  
