@@ -9,6 +9,8 @@
 
 - 🌎 I'm **Brazilian**
 
+- I am a **QA intern** 
+
 - 🔭 I'm currently work with functional and manual testing
 
 - 🌱 I’m currently learning **Cypress | Postman | Jmeter**
