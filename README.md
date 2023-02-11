@@ -41,9 +41,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
-<a href="https://github.com/marilliadantas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=dracula"/>
+
+  <a href="https://github.com/marilliadantas"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div align="center">
@@ -52,7 +52,7 @@
   
 </div>
   
-  <div>
+<div>
 <a href="https://github.com/marilliadantas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&langs_count=7&theme=dracula"/>
