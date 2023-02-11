@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marillia Dantas</h1>
 
-- 🔭 I’m currently working with Javascript
+- 🔭 I'm currently work with functional and manual testing
 
 - 🌱 I’m currently learning **Cypress | Postman | Jmeter**
 
