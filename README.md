@@ -33,7 +33,6 @@
 **Technology being learned**
   
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code>img height="20" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> </code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
   
 <div align="center">
