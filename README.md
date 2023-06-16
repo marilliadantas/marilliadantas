@@ -20,20 +20,23 @@
 
 **Languages and Testing Tools:**  
 
-<code><img height="20" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<br />
+<br/>
 <div>
   
 **Technology being learned**
-  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
+
+ <code><img height="20" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/353625/cucumber.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
+<code><img height="20" src="https://junit.org/junit5/assets/img/junit5-logo.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
   
 <div align="center">
 
