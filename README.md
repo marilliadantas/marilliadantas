@@ -32,7 +32,7 @@
   
 **Technology being learned**
   
-<code><img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img align="center" alt="java" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
   
 <div align="center">
