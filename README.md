@@ -13,9 +13,9 @@
 
 - 🔭 I'm currently work with functional and manual testing.
 
-- 🌱 I’m currently learning **Cypress | Postman | Jmeter.**
+- 🌱 I’m currently learning **Cypress | Java | Junit | Cucumber | Selenium**
 
-- 👯 I’m looking to collaborate on <pending ideas\>.
+- 👯 I'm looking to collaborate on new ideas.
 
 
 **Languages and Testing Tools:**  
