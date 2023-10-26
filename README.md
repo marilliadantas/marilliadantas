@@ -38,12 +38,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
 <code><img height="20" src="https://junit.org/junit5/assets/img/junit5-logo.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
-  
+
+<!--
 <div align="center">
 
   ![Snake animation](https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> 
+-->
 
 <div align="center">
   <a href="https://github.com/marilliadantas"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
