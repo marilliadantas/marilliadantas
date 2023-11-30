@@ -11,7 +11,7 @@
 
 - I am a **QA intern.** 
 
-- 🔭 I'm currently work with functional and manual testing.
+- 🔭 I'm currently work with manual and automated functional testing.
 
 - 🌱 I’m currently learning **Cypress | Java | Junit | Cucumber | Selenium**
 
