@@ -40,7 +40,7 @@
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 
 <div align="center">
-  <img src="https://github.com/marilliadantas/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 <div align="center">
