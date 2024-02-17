@@ -39,6 +39,8 @@
 <code><img height="20" src="https://junit.org/junit5/assets/img/junit5-logo.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 
+![Snake animation](https://github.com/lmarilliadantas/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 <div align="center">
 
