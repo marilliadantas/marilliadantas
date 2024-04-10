@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently work with manual and automated functional testing.
 
-- 🌱 I’m currently learning **Cypress | Java | Junit | Cucumber | Selenium**
+- 🌱 I’m currently learning **Cypress | Java | Junit | Cucumber | Selenium | Robot | Postman **
 
 - 👯 I'm looking to collaborate on new ideas.
 
