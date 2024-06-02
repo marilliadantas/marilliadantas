@@ -9,7 +9,7 @@
 
 - 🌎 I'm **Brazilian.**
 
-- I am a **QA Jr.**
+- I am a **QA.**
 
 - 🔭 I currently work with manual and automated functional tests.
 
