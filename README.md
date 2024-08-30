@@ -11,9 +11,9 @@
 
 - I am a **QA Engineer.**
 
-- 🔭 I currently work with manual and automated functional tests.
+- 🔭 I currently work with manual and automated web, api and mobile testing.
 
-- 🌱 Tools I know **Cypress | Cucumber | Selenium | Robot | Appium | Postman**
+- 🌱 Tools I know **Cypress | Robot | Maestro | Selenium | Cucumber | Appium | Postman**
 
 - 💡 I try to collaborate on new ideas.
 
