@@ -11,12 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: marilliadantas
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
 
       - run: git status
 
