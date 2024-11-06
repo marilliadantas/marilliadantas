@@ -2,7 +2,7 @@
 
 **`QA Engineer`**
 
-Me chamo Marillia Dantas, sou natural de Fortaleza, Ceará. Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. Com uma paixão por tecnologia e inovação, compartilho meu conhecimento na área de qualidade de software, ajudando profissionais e empresas a aperfeiçoar seus processos de testes e automação. Tenho certificações em Fundamentos de Testes de Software (ASTFC)™ e Scrum Foundation Certificate (SPFC) e estou sempre em busca de aprender e dividir experiências na área de qualidade e automação de testes.
+Me chamo Marillia Dantas, sou natural de Fortaleza, Ceará. Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. Com uma paixão por tecnologia e inovação, compartilho meu conhecimento na área de qualidade de software e estou sempre em busca de aprender e dividir experiências na área de qualidade e automação de testes.
 
 <p align="left">
     </a>
