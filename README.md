@@ -20,12 +20,6 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. C
             src="https://custom-icon-badges.demolab.com/github/followers/marilliadantas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/marilliadantas/">
-  <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
-</a>
-<a href="https://www.linkedin.com/in/marilliadantas/">
-  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
@@ -49,19 +43,29 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. C
 <code><img height="30" src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343"></code>
 
 ### 📊 Estatísticas
-<p>
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="border-radius: 10px;"
   />
+  <img 
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="border-radius: 10px;"
+  />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<br>
+
+### 🌐 Contato
+<div>
+  <a href="https://github.com/marilliadantas/">
+    <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/marilliadantas/">
+    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</div>
