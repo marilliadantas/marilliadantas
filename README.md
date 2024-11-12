@@ -60,7 +60,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. C
 
 <br>
 
-### 🌐 Contato
+### 🌐 Entre em Contato
 <div>
   <a href="https://github.com/marilliadantas/">
     <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
