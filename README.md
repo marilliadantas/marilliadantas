@@ -2,7 +2,7 @@
 
 **`QA Engineer`**
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atuo como QA Engineer. Com uma paixão por tecnologia e inovação, compartilho meu conhecimento na área de qualidade de software e estou sempre em busca de aprender e dividir experiências na área de qualidade e automação de testes.
+Sou formada em Análise e Desenvolvimento de Sistemas e Pós graduada em Engenharia de software com ênfase em Qualidade e atuo como QA Engineer. Com uma paixão por tecnologia e inovação, compartilho meu conhecimento na área de qualidade de software e estou sempre em busca de aprender e dividir experiências na área de qualidade e automação de testes.
 
 <p align="left">
     </a>
