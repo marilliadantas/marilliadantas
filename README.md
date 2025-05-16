@@ -1,26 +1,23 @@
-#  👩🏾‍💻 Marillia Dantas
+<h1 align="center">👩🏾‍💻 Marillia Dantas</h1>
 
-**`QA Engineer`**
+**`QA Engineer | Analista de Testes de Software`**
 
-Sou formada em Análise e Desenvolvimento de Sistemas e Pós graduada em Engenharia de software com ênfase em Qualidade e atuo como QA Engineer. Com uma paixão por tecnologia e inovação, compartilho meu conhecimento na área de qualidade de software e estou sempre em busca de aprender e dividir experiências na área de qualidade e automação de testes.
+🎓 Graduada em Análise e Desenvolvimento de Sistemas <br>
+🎓 Pós-graduada em Engenharia de Software com Ênfase em Qualidade <br>
+🛠️ QA Engineer com experiência sólida em testes manuais e automação <br>
+💡 Apaixonada por tecnologia, inovação e por compartilhar conhecimento <br>
 
-<p align="left">
-    </a>
-    <a href="https://github.com/marilliadantas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marilliadantas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/marilliadantas?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marilliadantas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+🚀 Foco em automação de testes:
+
+- Web: Cypress | Robot Framework | Playwright
+
+- Mobile: Robot Framework + Appium
+
+- API: Cypress | Robot Framework | Postman
+
+- Performance em API: k6
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -42,30 +39,54 @@ Sou formada em Análise e Desenvolvimento de Sistemas e Pós graduada em Engenha
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"></code>
 <code><img height="30" src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343"></code>
 
+<p align="left">
+    </a>
+    <a href="https://github.com/marilliadantas?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/marilliadantas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/marilliadantas?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/marilliadantas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🌐 Entre em Contato
+
+<p align="left">
+  <a href="https://github.com/marilliadantas" target="_blank">
+    <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marilliadantas/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
+
+---
+
 ### 📊 Estatísticas
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
+
+<p align="center">
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    style="border-radius: 10px;"
   />
+</p>
+
+<p align="center">
   <img 
-    alt="GitHub Stats"
+    alt="Top Langs"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    style="border-radius: 10px;"
   />
-</div>
-
-<br>
-
-### 🌐 Entre em Contato
-<div>
-  <a href="https://github.com/marilliadantas/">
-    <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/marilliadantas/">
-    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-</div>
+</p>
