@@ -59,7 +59,7 @@
 
 ---
 
-### 🌐 Entre em Contato
+### 🌐 Entre em contato
 
 <p align="left">
   <a href="https://github.com/marilliadantas" target="_blank">
