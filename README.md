@@ -9,13 +9,10 @@
 
 🚀 Foco em automação de testes:
 
-- Web: Cypress | Robot Framework | Playwright | Selenium
-
-- Mobile: Robot Framework + Appium | Maestro
-
-- API: Cypress | Robot Framework | Postman
-
-- Performance em API: k6 | Jmeter
+<div><strong>Web:</strong>  Cypress | Robot Framework | Playwright | Selenium</div>
+<div><strong>Mobile:</strong>  Robot Framework + Appium | Maestro</div>
+<div><strong>API:</strong>  Cypress | Robot Framework | Postman</div>
+<div><strong> Performance (API):</strong>  K6 | JMeter</div>
 
 ---
 
@@ -65,7 +62,6 @@
   <a href="https://github.com/marilliadantas" target="_blank">
     <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/marilliadantas/" target="_blank">
     <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
