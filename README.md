@@ -1,13 +1,13 @@
 <h1 align="center">👩🏾‍💻 Marillia Dantas</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marilliadantas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25"/>
-  </a>
-  <a href="https://marilliadantas.github.io/portifolio-qa" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Site&logo=firefox-browser&color=0A0A0A&logoColor=white&style=flat" height="25"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/marilliadantas" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25"/>
+    </a>
+    <a href="https://marilliadantas.github.io/portifolio-qa" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=Portfolio&message=Site&logo=firefox-browser&color=0A0A0A&logoColor=white&style=flat" height="25"/>
+    </a>
+  </div>
 
 **`QA Engineer | Analista de Testes de Software`**
 
