@@ -17,24 +17,26 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="25" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"></code>
-<code><img height="25" src="https://www.svgrepo.com/show/184143/java.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
-<code><img height="25" src="https://www.svgrepo.com/show/374049/robotframework.svg"></code>
-<code><img height="25" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"></code>
-<code><img height="25" src="https://www.svgrepo.com/show/353625/cucumber.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
-<code><img height="25" src="https://junit.org/junit5/assets/img/junit5-logo.png"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"></code>
-<code><img height="25" src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343"></code>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="25" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" />
+  <img height="25" src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
+  <img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg" alt="IntelliJ IDEA" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img height="25" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" />
+  <img height="25" src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework" />
+  <img height="25" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" alt="Cypress" />
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="Java Wordmark" />
+  <img height="25" src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="Cucumber" />
+  <img height="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" alt="Selenium" />
+  <img height="25" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" />
+  <img height="25" src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="Appium" />
+  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" />
+  <img height="25" src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343" alt="Allure" />
+</div>
 
 <p align="left">
     </a>
