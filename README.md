@@ -24,7 +24,7 @@
 **Mobile:** Appium | Robot Framework | Maestro  
 **API:** Cypress | Robot Framework | Postman  
 **Performance:** K6 | JMeter  
-**Testes**: BDD | Testes Funcionais | Exploratório | Testes de Regressão
+**Testes**: BDD | Testes Funcionais | Exploratório | Testes de Regressão <br>
 **Metodologias Ágeis:**: Scrum | Kanban
 
 ---
