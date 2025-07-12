@@ -11,32 +11,49 @@
 
 **`QA Engineer | Analista de Testes de Software`**
 
-🎓 Graduada em Análise e Desenvolvimento de Sistemas  
-🎓 Pós-graduada em Engenharia de Software com Ênfase em Qualidade  
-🛠️ QA Engineer com experiência sólida em testes manuais e automação  
-💡 Apaixonada por tecnologia, inovação e por compartilhar conhecimento  
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
+🎓 Pós-graduada em **Engenharia de Software com Ênfase em Qualidade**  
+🛠️ QA Engineer com experiência sólida em **Testes Manuais, Automação de Testes e Metodologias Ágeis (Scrum e Kanban)**  
+💡 Apaixonada por tecnologia, inovação e por compartilhar conhecimento 
 
 ---
 
-### ⚙️ Habilidades em Testes
+### ⚙️ Tecnologias
+Frameworks de Teste: <br> 
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
+[![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#)
+[![Rest Assured](https://img.shields.io/badge/Rest%20Assured-3B2F63?logo=java&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) 
+[![Appium](https://img.shields.io/badge/Appium-6F3FB3?logo=appium&logoColor=white)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
+[![Maestro](https://img.shields.io/badge/Maestro-2EAD33?logo=maestro&logoColor=white)](#)
+[![PactumJS](https://img.shields.io/badge/PactumJS-2EAD33?logo=javascript&logoColor=white)](#)
+[![k6](https://img.shields.io/badge/k6-2EAD33?logo=k6&logoColor=white)](#)
+[![JMeter](https://img.shields.io/badge/JMeter-2EAD33?logo=apache&logoColor=white)](#)
 
-**Web:** Cypress | Robot Framework | Playwright | Selenium  
-**Mobile:** Appium | Robot Framework | Maestro  
-**API:** Cypress | Robot Framework | Postman  
-**Performance:** K6 | JMeter  
-**Testes**: BDD | Testes Funcionais | Exploratório | Testes de Regressão <br>
-**Metodologias Ágeis:**: Scrum | Kanban
+Linguagens de Programação: <br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
 
----
+Versionamento & CI/CD: <br>
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#)  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
-### 💬 Linguagens de Programação
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" /> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" height="25" alt="Python" /> <img src="https://www.svgrepo.com/show/184143/java.svg" height="25" alt="Java" />
+Banco de Dados: <br>
+[![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)](#)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-2EAD33?logo=mongodb&logoColor=white)](#)
 
-### 🧪 Frameworks de Teste
- <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="25" alt="Postman" /> <img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="25" alt="Robot Framework" /> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" height="25" alt="Cypress" /> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1a/icons/java/java-original-wordmark.svg" height="25" alt="Java Wordmark" /> <img src="https://www.svgrepo.com/show/353625/cucumber.svg" height="25" alt="Cucumber" /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="25" alt="Selenium" /> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="25" alt="JUnit 5" /> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" height="25" alt="Appium" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" height="25" alt="k6" /> <img src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343" height="25" alt="Allure" />
+Design & Prototipação: <br>
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-### 📊 Outras ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="25" alt="Jenkins" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VSCode" /> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg" height="25" alt="IntelliJ IDEA" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
+Testes: <br>
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)](#) [![Gherkin](https://img.shields.io/badge/Gherkin-83A603?logoColor=white)](#)
+
+Gerenciamento de Projetos: <br>
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2EAD33?logo=azure-devops&logoColor=white)](#)
+
+Containers: <br>
+[![Docker](https://img.shields.io/badge/Docker-2EAD33?logo=docker&logoColor=white)](#)
 
 ---
 
