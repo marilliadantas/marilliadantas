@@ -81,3 +81,6 @@ Containers: <br>
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
+![snake gif](https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg)
