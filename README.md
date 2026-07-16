@@ -76,4 +76,8 @@ Containers: <br>
   </a>
 </p>
 
-![snake animation](https://github.com/marilliadantas/marilliadantas/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+    <img
+      src="https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg"
+    />
+</p>
