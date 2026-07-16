@@ -1,14 +1,3 @@
-<h1 align="center">👩🏾‍💻 Marillia Dantas</h1>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/marilliadantas" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25"/>
-    </a>
-    <a href="https://portifolio-qa-beta.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=Portfolio&message=Site&logo=firefox-browser&color=0A0A0A&logoColor=white&style=flat" height="25"/>
-    </a>
-  </div>
-
 **`QA Engineer | Analista de Testes de Software`**
 
 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
@@ -18,7 +7,8 @@
 
 ---
 
-### 💻 Tech Stack 
+<!-- Tech Stack -->
+## 💻 Tech Stack ⚡
 Frameworks de Teste: <br> 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
@@ -57,27 +47,31 @@ Containers: <br>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      alt="GitHub Stats"
-      src="https://github-stats-extended.vercel.app/api?username=marilliadantas&theme=tokyonight&show_icons=true&include_all_commits=true"
-    />
-  </a>
-</p>
+<!-- Stats -->
+<div align="center">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=marilliadantas&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" width="45%"/>
+
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&hide_border=true" width="35%"/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+<!-- Social connections -->
+<div align="center>
+    
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilliadantas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-0A0A0A?logo=firefox-browser&logoColor=white)](https://portifolio-qa-beta.vercel.app/)
+</div>
+
+<!-- Visit Counter
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      alt="Top Languages"
-      height
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&card_width=400"
-    />
-  </a>
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=marilliadantas&icon=10&color=6)](https://visitcount.itsvg.in)
+
 </p>
 
-<p align="center">
-    <img
-      src="https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg"
-    />
-</p>
+-->
