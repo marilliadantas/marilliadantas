@@ -18,7 +18,7 @@
 
 ---
 
-### ⚙️ Tecnologias
+### 💻 Tech Stack 
 Frameworks de Teste: <br> 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
@@ -57,30 +57,25 @@ Containers: <br>
 
 ---
 
-### 🌟 GitHub Stats
-
-[![Total de estrelas](https://custom-icon-badges.demolab.com/github/stars/marilliadantas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/marilliadantas?tab=repositories&sort=stargazers)
-[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/marilliadantas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/marilliadantas?tab=followers)
-
----
-
-### 📊 Estatísticas
-
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=marilliadantas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      alt="GitHub Stats"
+      src="https://github-stats-extended.vercel.app/api?username=marilliadantas&theme=tokyonight&show_icons=true&include_all_commits=true"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      alt="Top Languages"
+      height
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&card_width=400"
+    />
+  </a>
 </p>
 
----
-![snake gif](https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg)
+<!--
+![snake gif](https://raw.githubusercontent.com/marilliadantas/marilliadantas/output/github-snake-dark.svg)
+-->
