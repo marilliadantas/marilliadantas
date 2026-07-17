@@ -4,7 +4,7 @@
 
 <!-- Social connections -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilliadantas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-0A0A0A?logo=firefox-browser&logoColor=white)](https://portifolio-qa-beta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=firefox-browser&logoColor=white)](https://portifolio-qa-beta.vercel.app/)
 
 **`QA Engineer | Software Quality Assurance | Test Automation`**
 
