@@ -1,15 +1,23 @@
-**`QA Engineer | Analista de Testes de Software`**
+<h2 align="center">
+  Hello World! &nbsp; <img src="https://usagif.com/wp-content/uploads/gifs/globe-10.gif" width="35px">
+</h2>
+
+<!-- Social connections -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilliadantas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-0A0A0A?logo=firefox-browser&logoColor=white)](https://portifolio-qa-beta.vercel.app/)
+
+**`QA Engineer | Software Quality Assurance | Test Automation`**
 
 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
 🎓 Pós-graduada em **Engenharia de Software com Ênfase em Qualidade**  
-🛠️ QA Engineer com experiência sólida em **Testes Manuais, Automação de Testes e Metodologias Ágeis (Scrum e Kanban)**  
+🛠️ QA Engineer com experiência em testes **funcionais, exploratórios, regressivos e automatizados**    
 💡 Apaixonada por tecnologia, inovação e por compartilhar conhecimento 
 
 ---
 
 <!-- Tech Stack -->
 ## 💻 Tech Stack ⚡
-Frameworks de Teste: <br> 
+Frameworks de automação: <br> 
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
 [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white)](#)
@@ -51,25 +59,17 @@ Containers: <br>
 <div align="center">
     <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=marilliadantas&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" width="45%"/>
 
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&hide_border=true" width="35%"/>
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&hide_border=true"/>
 
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
-<!-- Social connections -->
-<div align="center>
-    
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marilliadantas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-0A0A0A?logo=firefox-browser&logoColor=white)](https://portifolio-qa-beta.vercel.app/)
-</div>
-
 <!-- Visit Counter
 
 <p align="center">
-
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 [![Visitor Count](https://visitcount.itsvg.in/api?id=marilliadantas&icon=10&color=6)](https://visitcount.itsvg.in)
 
 </p>
