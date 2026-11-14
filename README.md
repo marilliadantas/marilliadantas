@@ -56,15 +56,38 @@ Containers: <br>
 ---
 
 <!-- Stats -->
-<div align="center">
-    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=marilliadantas&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" width="45%"/>
+<p align="center">
+  <img
+    width="400"
+    src="https://github-stats-extended.vercel.app/api?username=marilliadantas&show_icons=true&rank_icon=default&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&border_color=7D53FF&bg_color=242834&title_color=B6FF00&text_color=FFFFFF&icon_color=7D53FF"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    width="400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&layout=compact&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas&border_color=7D53FF&bg_color=242834&title_color=B6FF00&text_color=FFFFFF&langs_count=6&card_width=400"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marilliadantas&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9&hide_border=true"/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/marilliadantas/marilliadantas/blob/output/github-snake-dark.svg" alt="snake animation" />
-</div>
+<!-- GitHub Snake Animation -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/marilliadantas/marilliadantas/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/marilliadantas/marilliadantas/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/marilliadantas/marilliadantas/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <!-- Visit Counter
 
